@@ -1,0 +1,4 @@
+fastapi==0.115.*
+uvicorn[standard]==0.32.*
+lizard==1.17.*
+groq>=0.1
